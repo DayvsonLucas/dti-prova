@@ -1,0 +1,8 @@
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\bin\Debug\netstandard2.1\DTI.Domain.Core.deps.json
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\bin\Debug\netstandard2.1\DTI.Domain.Core.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\bin\Debug\netstandard2.1\DTI.Domain.Core.pdb
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\obj\Debug\netstandard2.1\DTI.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\obj\Debug\netstandard2.1\DTI.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\obj\Debug\netstandard2.1\DTI.Domain.Core.AssemblyInfo.cs
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\obj\Debug\netstandard2.1\DTI.Domain.Core.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Domain.Core\obj\Debug\netstandard2.1\DTI.Domain.Core.pdb

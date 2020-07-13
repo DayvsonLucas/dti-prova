@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DTI.Application\DTI.Application.csproj" />
+    <ProjectReference Include="..\DTI.Domain.Core\DTI.Domain.Core.csproj" />
+    <ProjectReference Include="..\DTI.Domain\DTI.Domain.csproj" />
+    <ProjectReference Include="..\DTI.Infra.Data\DTI.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

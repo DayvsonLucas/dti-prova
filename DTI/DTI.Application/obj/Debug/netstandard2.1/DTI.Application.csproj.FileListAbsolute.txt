@@ -1,0 +1,16 @@
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Application.deps.json
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Application.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Application.pdb
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Domain.Core.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Domain.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Infra.Data.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Domain.Core.pdb
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Domain.pdb
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\bin\Debug\netstandard2.1\DTI.Infra.Data.pdb
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.csprojAssemblyReference.cache
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.csproj.CoreCompileInputs.cache
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.AssemblyInfoInputs.cache
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.AssemblyInfo.cs
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.csproj.CopyComplete
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.dll
+C:\Users\dayvson.silva\Desktop\DTI\DTI\DTI.Application\obj\Debug\netstandard2.1\DTI.Application.pdb

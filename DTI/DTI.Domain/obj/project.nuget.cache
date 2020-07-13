@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "czfaC99hpL/FLoSDhZVlRKGKTxR7e3I2gK5amqzCwpHEPVxI+8TWBnzQ54y9ZU5YDGkH3T3Ke0YizOvuxEVNwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\DTI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayvson.silva\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Infra.Data\\DTI.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj",
+        "projectName": "DTI.Domain.Core",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dayvson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srvworkflow.squadra.com.br/NugetServer/nuget": {},
+          "http://www.squadra.com.br/Wings4Cloud.Nuget.Server/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\DTI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\DTI.Domain.csproj",
+        "projectName": "DTI.Domain",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\DTI.Domain.csproj",
+        "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dayvson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srvworkflow.squadra.com.br/NugetServer/nuget": {},
+          "http://www.squadra.com.br/Wings4Cloud.Nuget.Server/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Infra.Data\\DTI.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Infra.Data\\DTI.Infra.Data.csproj",
+        "projectName": "DTI.Infra.Data",
+        "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Infra.Data\\DTI.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\dayvson.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dayvson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srvworkflow.squadra.com.br/NugetServer/nuget": {},
+          "http://www.squadra.com.br/Wings4Cloud.Nuget.Server/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain.Core\\DTI.Domain.Core.csproj"
+              },
+              "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\DTI.Domain.csproj": {
+                "projectPath": "C:\\Users\\dayvson.silva\\Desktop\\DTI\\DTI\\DTI.Domain\\DTI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
